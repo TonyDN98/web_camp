@@ -1,4 +1,4 @@
 ## Notes
 
-[Link to](E:\Dev)
+[Link to](https://google.ro)
 
