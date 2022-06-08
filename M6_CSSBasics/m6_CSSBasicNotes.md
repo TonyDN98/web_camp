@@ -1,10 +1,3 @@
-<style>
-h1,h2,h3,p,a {
-    font-family: Verdana,monospace;
-    color: pink;
-    
-}
-</style>
 
 <h1>Module 6. CSS Basics</h1>
 <p>|__________________________________________|</p>
@@ -29,7 +22,7 @@ h1,h2,h3,p,a {
 <p>|____________________________________|</p>
 
 
-<h2>_1. WHAT'S THE MATTER IN THIS SECTION?_</h2>
+<h2>1. WHAT'S THE MATTER IN THIS SECTION?</h2>
 <p>|_____________________________________________________________________|</p>
 
 <p id="goup"></p>
@@ -62,7 +55,7 @@ h1,h2,h3,p,a {
 */
 ```
 
-<h2 id="u2">_2. Basic Css Syntax;_</h2>
+<h2 id="u2">2. Basic Css Syntax;</h2>
 <p>|_________________________________|</p>
 
 ```css
@@ -84,7 +77,7 @@ img {
 <hr><br>
 
 
-<h2 id="u3">_3'. Include External CSS File_</h2>
+<h2 id="u3">3'. Include External CSS File</h2>
 <p>|_____________________________________________|</p>
 
 [Link to m6_CssBasics](CSSBasics.css)
@@ -98,7 +91,7 @@ Always use an external style sheet it's the recommended way;
 -->
 ```
 
-<h2 id="u31">_3```. Different types of styling;_</h2>
+<h2 id="u31">3```. Different types of styling;</h2>
 <p>|_______________________________________________|</p>
 
 ```html
@@ -125,7 +118,7 @@ Always use an external style sheet it's the recommended way;
 
 
 
-<h2 id="u4">_4. Color/Background-color Scheme: RGB, Hex_</h2>
+<h2 id="u4">4. Color/Background-color Scheme: RGB, Hex</h2>
 <p>|_______________________________________________________________________|</p>
 
 [Link 4. Color/Background-color Scheme: RGB, Hex](CSSBasics.css)
@@ -151,7 +144,7 @@ h3 {
 ```
 <hr>
 
-<h3 id="u41">_4.1 Named Colors_</h3>
+<h3 id="u41">4.1 Named Colors</h3>
 <p>|_____________________|</p>
 
 
@@ -169,7 +162,7 @@ h2 {
 
 <hr>
 
-<h3 id="u42">_4.2 RGB Colors[RGB(R,G,B)]_</h3>
+<h3 id="u42">4.2 RGB Colors[RGB(R,G,B)]</h3>
 <p>|________________________________|</p>
 
 ```css
@@ -192,7 +185,7 @@ h2 {
 ```
 <hr>
 
-<h3 id="u43">_4.3 HEX Colors[#FFFF00]_</h3>
+<h3 id="u43">4.3 HEX Colors[#FFFF00]</h3>
 <p>|_____________________________|</p>
 
 ```css
@@ -226,7 +219,7 @@ p {
 }
 ```
 
-<h2 id="u5">_5. Common Text Properties_</h2>
+<h2 id="u5">5. Common Text Properties</h2>
 <p>|____________________________________________|</p>
 
 
@@ -307,7 +300,7 @@ h2 {
 }
 ```
 
-<h2 id="u6">_6. Font-Family_</h2>
+<h2 id="u6">6. Font-Family</h2>
 <p>|______________________|</p>
 
 ```css
