@@ -1,10 +1,3 @@
-<style>
-h1,h2,h3,p,a {
-    font-family: Verdana,monospace;
-    color: pink;
-    
-}
-</style>
 
 <h1>Module 7. Css Selectors</h1>
 <p>|__________________________________________|</p>
@@ -32,7 +25,7 @@ h1,h2,h3,p,a {
 [M7_Practice/m7_DescendentSelectorPractice.css CSS File](M7_Practice/m7_DescendentSelectorPractice.css)
 
 
-<h2>_WHAT'S THE MATTER IN THIS SECTION?_</h2>
+<h2>WHAT'S THE MATTER IN THIS SECTION?</h2>
 <p>|_____________________________________________________________________|</p>
 
 <p id="goup"></p>
@@ -55,7 +48,7 @@ h1,h2,h3,p,a {
 
 
 
-<h2 id= "u1">_1. Universal Selector_</h2>
+<h2 id= "u1">1. Universal Selector</h2>
 <p>|____________________________|</p>
 
 ```css
@@ -77,7 +70,7 @@ h1,h2,h3,p,a {
 ```
 <hr><br>
 
-<h2 id= "u2">_2. Element Selector_</h2>
+<h2 id= "u2">2. Element Selector</h2>
 <p>|____________________________|</p>
 
 ```css
