@@ -267,11 +267,3 @@ font unit, will be 2x font size of the parent element;
 padding, margin;
 1em or 2em will be 2x the size of the element it self;
 ```
-
-
-
-
-
-
-
-
