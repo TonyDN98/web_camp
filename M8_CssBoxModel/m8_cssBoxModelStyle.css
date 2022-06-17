@@ -79,7 +79,10 @@ margin:0px;
 
 DISPLAY
 * display: inline; >-
+
 * display: block;
+ on block level elements width and height, padding, margin are not ignored, compared with inline elements;
+
 * display: inline-block;
 
 
@@ -107,6 +110,14 @@ h1{
     padding-left: 100px;
     padding-top: 50px;
     border: 1px solid black;
+    /*display: inline;*/
+}
+
+span{
+    background-color: darkturquoise;
+    border: 1px solid black;
+    display: block;
+    width: 50px;
 }
 
 #one {
@@ -139,4 +150,18 @@ button {
     /*padding: 20px;*/
     /*padding: 10px 20px;*/
     /*padding: 10px 20px 30px 40px;*/
+}
+
+.divdisplay{
+    height: 200px;
+    width: 200px;
+    background-color: olive;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.displaynone{
+    display: none;
 }
