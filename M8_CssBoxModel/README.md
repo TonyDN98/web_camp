@@ -164,12 +164,12 @@ div button {
 ```css
 /*
 +---------------------------------------------------------------------------------------------------------------------------+|
-Margin
+|Margin                                                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------+|
-Margin is the space between other elements;
+|Margin is the space between other elements;                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------+|
-                                                                                                                             |
-                ELEMENT 1                                                   ELEMENT 2                                        |
+|                                                                                                                            |
+|                ELEMENT 1                                                   ELEMENT 2                                       |
 |-------------------------------------------------------| |-------------------------------------------------------|          |
 |                   MARGIN                              | |                   MARGIN                              |          |
 |      |----------border------------------------| MARGIN| |      |----------border------------------------| MARGIN|          |
@@ -182,21 +182,21 @@ Margin is the space between other elements;
 |      |---------------border-------------------|       | |      |---------------border-------------------|       |          |
 |                   MARGIN                              | |                   MARGIN                              |          |
 |-------------------------------------------------------| |-------------------------------------------------------|          |
-                                                                                                                             |
+|                                                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------+|
-margin-left;                                                                                                                 |
-margin-right;                                                                                                                |
-margin-bottom;                                                                                                               |
-margin-top;                                                                                                                  |
+|margin-left;                                                                                                                |
+|margin-right;                                                                                                               |
+|margin-bottom;                                                                                                              |
+|margin-top;                                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------+|
-Shorthand Margin:
-margin: 10px; all 4 sides
+|Shorthand Margin:                                                                                                           |
+|margin: 10px; all 4 sides                                                                                                   |
 +---------------------------------------------------------------------------------------------------------------------------+|
-Vertical | Horizontal
-margin: 5px 10px;
+|Vertical | Horizontal                                                                                                       |
+|margin: 5px 10px;                                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------+|
-Top | Right | Bottom | Left | around the clock
-margin: 1px 2px 3px 4px;
+|Top | Right | Bottom | Left | around the clock                                                                              |
+|margin: 1px 2px 3px 4px;                                                                                                    |
 +---------------------------------------------------------------------------------------------------------------------------+|
 */
 ```
@@ -214,14 +214,18 @@ margin:0px;
 
 ```css
 /*
-display:none >- hide an element;
-display:inline 
-    >- WIDTH & HEIGHT are ignored. Margin & Padding push elements away horizontally but not vertically;
-    
-display: block 
-    >- WIDTH & HEIGHT , Margin & Padding are respected;
-display: inline-block 
-    >- Behave like inline elements except  WIDTH & HEIGHT , Margin & Padding are respected;
++---------------------------------------------------------------------------------------------------------------------------+|
+|display:none >- hide an element;                                                                                            |
++---------------------------------------------------------------------------------------------------------------------------+|
+|display:inline                                                                                                              |
+|    >- WIDTH & HEIGHT are ignored. Margin & Padding push elements away horizontally but not vertically;                     |                
++---------------------------------------------------------------------------------------------------------------------------+|
+|display: block                                                                                                              |
+|   >- WIDTH & HEIGHT , Margin & Padding are respected;                                                                      |
++---------------------------------------------------------------------------------------------------------------------------+|
+|display: inline-block                                                                                                       |
+|    >- Behave like inline elements except  WIDTH & HEIGHT , Margin & Padding are respected;                                 |
++---------------------------------------------------------------------------------------------------------------------------+|
 
 */
 ```
@@ -258,16 +262,16 @@ display: inline-block
 
 ```css
 /*
-+-------------------------------------------------------------------------+|
-| Absolute Units (px,mm,cm) (this sized are fixed length)
-| Units that are absolute are the same size regardless of the parent element or windows size;
-|--------------------------------------------------------------------------|
-|Relative Units (%, em,rem)
-|This units are useful for styling responsive sites because the scale relative with parent or windows size(depending on the unit);
++--------------------------------------------------------------------------------------------------------------------------------------+|
+| Absolute Units (px,mm,cm) (this sized are fixed length)                                                                               |
+| Units that are absolute are the same size regardless of the parent element or windows size;                                           |
++--------------------------------------------------------------------------------------------------------------------------------------+|
+|Relative Units (%, em,rem)                                                                                                             |
+|This units are useful for styling responsive sites because the scale relative with parent or windows size(depending on the unit);      |
 |
-|% >- Relative to the parent element;
-|em >- Relative to the font size of the element
-|rem >- Relative to the font size of the root element;
-+-------------------------------------------------------------------------+|
+|% >- Relative to the parent element;                                                                                                   |
+|em >- Relative to the font size of the element                                                                                         |
+|rem >- Relative to the font size of the root element;                                                                                  |
++--------------------------------------------------------------------------------------------------------------------------------------+|
 */
 ```
