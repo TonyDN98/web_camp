@@ -209,15 +209,19 @@ margin:0px;
 }
 ```
 
-<h2>4. Display</h2>
+<h2>4. display</h2>
 <p>|____________________________|</p>
 
 ```css
 /*
 display:none >- hide an element;
-display:inline >- change properties of an block-level element to be  displayed inline
-display: block >- change properties of an inline element to be  displayed block-level
-display: inline-block >- generate a block element that will be flowed with surrounding content as if it where a singe inline block 
+display:inline 
+    >- WIDTH & HEIGHT are ignored. Margin & Padding push elements away horizontally but not vertically;
+    
+display: block 
+    >- WIDTH & HEIGHT , Margin & Padding are respected;
+display: inline-block 
+    >- Behave like inline elements except  WIDTH & HEIGHT , Margin & Padding are respected;
 
 */
 ```
@@ -249,21 +253,21 @@ display: inline-block >- generate a block element that will be flowed with surro
 ```
 
 
-<h2>5. display</h2>
+<h2>6. Absolute & Relative Units</h2>
 <p>|____________________________|</p>
 
 ```css
 /*
-% unit;
- they  are going to be % of the parent element;
-
-
-Em Units use relative from the parent element
-Rem Units use relative from root element;
-
-Working with fonts;
-font unit, will be 2x font size of the parent element;
-
-padding, margin;
-1em or 2em will be 2x the size of the element it self;
++-------------------------------------------------------------------------+|
+| Absolute Units (px,mm,cm) (this sized are fixed length)
+| Units that are absolute are the same size regardless of the parent element or windows size;
+|--------------------------------------------------------------------------|
+|Relative Units (%, em,rem)
+|This units are useful for styling responsive sites because the scale relative with parent or windows size(depending on the unit);
+|
+|% >- Relative to the parent element;
+|em >- Relative to the font size of the element
+|rem >- Relative to the font size of the root element;
++-------------------------------------------------------------------------+|
+*/
 ```
