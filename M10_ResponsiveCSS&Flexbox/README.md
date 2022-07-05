@@ -113,7 +113,25 @@ main .maincontent{
 |   }
 |
 |----------------------------------------------------------------------------------|
-
-
 */
+
+/*768px media responsive*/
+@media(max-width: 768px){
+    h1{
+        font-size: 4em;
+    }
+}
+
+/*576px media responsive*/
+
+@media(max-width: 576px){
+    h1{
+        font-size: 2em;
+
+    }
+    nav{
+        flex-direction: column;
+        align-items: center;
+    }
+}
 ```
