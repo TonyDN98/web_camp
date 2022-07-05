@@ -96,3 +96,24 @@ main .maincontent{
 }
 ```
 
+
+<h2 id="u1">x. Responsive Design & Media Queries ;</h2>
+<p>|____________________________________________________|</p>
+
+```css
+/*
+|----------------------------------------------------------------------------------|
+| MEDIA QUERIES
+| * MQ allow to modify our style depending on parameters like screen width or device type;
+|
+| Syntax:
+| @media(parameter) and (parameter) {
+|   h1{
+        something;    }
+|   }
+|
+|----------------------------------------------------------------------------------|
+
+
+*/
+```
