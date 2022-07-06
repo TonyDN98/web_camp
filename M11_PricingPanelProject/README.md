@@ -125,7 +125,7 @@ table {
 
 <h2>Mobile View</h2>
 
-<img src="F:\Dev\web_camp\M11_PricingPanelProject\ss\s11_mobileView.png"/>
+<img src="https://github.com/TonyDN98/web_camp/blob/main/M11_PricingPanelProject/ss/s11_mobileView.png?raw=true"/>
 
 ```css
 /*--------------------------------------------------------------------------------*/
