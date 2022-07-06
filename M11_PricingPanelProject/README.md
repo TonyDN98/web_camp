@@ -245,7 +245,7 @@ body{
 
 <h2>Larger View</h2>
 
-![](F:\Dev\web_camp\M11_PricingPanelProject\ss\s11_largeView.png)
+![Large View](https://github.com/TonyDN98/web_camp/blob/main/M11_PricingPanelProject/ss/s11_largeView.png?raw=true)
 
 ```css
 /*
