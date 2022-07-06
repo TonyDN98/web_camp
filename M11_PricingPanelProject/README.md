@@ -10,6 +10,7 @@
 <p>|____________________________________|</p>
 
 <h2>HTML BOILERPLATE</h2>
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -66,6 +67,7 @@
 ```
 
 <h2>Reset CSS</h2>
+
 ```css
 /* 
    http://meyerweb.com/eric/tools/css/reset/
