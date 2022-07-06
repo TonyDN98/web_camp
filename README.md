@@ -6,9 +6,9 @@
 
 [Module_8 MD CSS_BOX_MODEL](https://github.com/TonyDN98/web_camp/blob/main/M8_CssBoxModel/README.md)
 
-[Module_9 MD](https://github.com/TonyDN98/web_camp/blob/main/M9_OTHERUsefulCSS/README.md)
+[Module_9 MD OTHER_CSS](https://github.com/TonyDN98/web_camp/blob/main/M9_OTHERUsefulCSS/README.md)
 
-[Module_10 MD](https://github.com/TonyDN98/web_camp/tree/main/M10_ResponsiveCSS%26Flexbox#readme)
+[Module_10 MD CSS_FLEXBOX](https://github.com/TonyDN98/web_camp/tree/main/M10_ResponsiveCSS%26Flexbox#readme)
 
 
 
