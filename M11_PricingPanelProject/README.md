@@ -7,7 +7,7 @@
 <>
 [Pricing Panel CSS](https://github.com/TonyDN98/web_camp/blob/main/M11_PricingPanelProject/m11_PricingPanel.css)
 <br>
-[Button Hover Transition Reference]()
+[Button Hover Transition Reference](https://github.com/TonyDN98/web_camp/blob/main/M9_OTHERUsefulCSS/5.FancyButtonHoverEffect/m9_fancyButton.css)
 <p>|____________________________________|</p>
 
 <h2>HTML BOILERPLATE</h2>
