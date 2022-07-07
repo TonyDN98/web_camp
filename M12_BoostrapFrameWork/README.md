@@ -28,7 +28,7 @@
 </ul>
 
 <h2 id="u1">1. Including Bootstrap TEMPLATE </h2>
-<p>|____________________________|</p>
+<p>|______________________________________________________|</p>
 
 ```html
 
@@ -44,10 +44,29 @@
 
 
 ```html
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
 
 ```
+
+<h2 id="u2">2. Containers;</h2>
+<p>|______________________________________________________|</p>
+
+```html
+<!--
+Our default .container class is a responsive, 
+fixed-width container, meaning its max-width changes
+at each breakpoint.
+-->
+
+<div class="container">
+    <!-- Content goes here!  -->
+    <h1>Heading</h1>
+    <p>lorem</p>
+</div>
+```
+
 
 
 
