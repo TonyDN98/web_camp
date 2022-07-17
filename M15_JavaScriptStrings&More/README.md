@@ -127,7 +127,7 @@ let whisper = message.trim().toLowerCase();
 
 [|_String Methods MDN Reference _|](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
-
+![String Methods](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodsJs.png?raw=true)
 
 
 
