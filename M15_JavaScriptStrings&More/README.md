@@ -15,8 +15,8 @@
 <p id="goUP"></p>
 <ul>
     <li><a href="#u1">1. Strings</a></li>
-    <li><a href="#u2">2. </a></li>
-    <li><a href="#u3">3. </a></li>
+    <li><a href="#u2">2. Indices & Length</a></li>
+    <li><a href="#u3">3. String Methods</a></li>
     <li><a href="#u4">4. </a></li>
     <li><a href="#u5">5. </a></li>
     <li><a href="#u6">6. </a></li>
@@ -129,5 +129,47 @@ let whisper = message.trim().toLowerCase();
 
 ![String Methods](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodsJs.png?raw=true)
 
+<h2 id="u4">4. String Methods with Arguments;</h2>
+<p>|____________________________|</p>
+
+```javascript
+/*
+* String Methods with Arguments;
+* this.method(argument);
+* 
+* indexOf Method;
+* this.indexOf("something");
+* return the first index if found;
+* return -1; if didn't found;
+*/
+```
 
 
+
+
+
+```javascript
+/*
+* replace Method;
+* thing.replace("toReplace", "tobeReplaced");
+* let something = "HaHa, so funny! Tehhee";
+* something.replace("Tehhee", "HaHa"); // only the first instance;
+* */
+```
+
+
+```javascript
+/*
+*  
+* slice Method;
+* this.slice(firstPos, secondPos);
+* this.slice(firstPos);
+* this.slice(-2); // start the slice from the last element;
+* this.slice(-2,-6); // start the slice from the last element;
+* */
+```
+
+```javascript
+//Exercise;
+
+```
