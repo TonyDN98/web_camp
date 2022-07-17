@@ -283,7 +283,7 @@ Math.floor(3.55555); // 3
 Math.ceil(34.1); //35
 
 ```
-![Math objects;](git)
+![Math objects;](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/MathObjectJs.png?raw=true)
 
 ```javascript
 /*
@@ -309,6 +309,8 @@ const die2 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
 let roll = `roll:You rolled a ${die1} and a ${die2}. They sum to ${die1+die2}`;
 
 ```
+
+![Random number;](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/RandomNumberJs.png?raw=true)
 
 
 
