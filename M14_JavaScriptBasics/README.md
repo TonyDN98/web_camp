@@ -16,13 +16,12 @@
 <p id="goUP"></p>
 <ul>
     <li><a href="#u1">1. Primitive Types;</a></li>
-    <li><a href="#u2">2.Variables;</a></li>
-    <li><a href="#">3. </a></li>
-    <li><a href="#">4. </a></li>
-    <li><a href="#">5. </a></li>
-    <li><a href="#">6. </a></li>
-    <li><a href="#">7. </a></li>
-    <li><a href="#">8. </a></li>
+    <li><a href="#u2">2. Variables;</a></li>
+    <li><a href="#u3">3. Updating Variables; </a></li>
+    <li><a href="#u4">4. Const & Var</a></li>
+    <li><a href="#u5">5. Boolean</a></li>
+    <li><a href="#u6">6. Changing the variable Type;</a></li>
+    <li><a href="#u7">7. Variable Naming and Conventions;</a></li>
 </ul>
 
 
@@ -228,6 +227,59 @@ const boilingPointF = 212;
 ```
 
 ![Const & Var](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssConst&VarJs.png)
+
+<h2 id="u5">5. Boolean</h2>
+<p>|__________________________|</p>
+
+```javascript
+/*
+* Boolean (true or false , this keywords are case sensitive;)
+* Can store only 2 values : true or false;
+* */
+
+let isBattleTowerOver = false;
+let isLoggedIn = true;
+```
+
+![Boolean](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssBooleanJs.png)
+
+<h2 id="u6">6. Changing the variable Type;</h2>
+<p>|________________________________________________|</p>
+
+```javascript
+/*
+* Changing variable type;
+* One variable already declared dosen't have a fixed data type;
+* That type can be changed anytime we want durring the process;
+* */
+
+let isThatPikaPika = true; // boolean
+isThatPikaPika = 2100; // number
+isThatPikaPika = "It's PIKA!"; // text
+```
+
+![Changing Var Type](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssChangingVarTypeJs.png)
+
+<h2 id="u7">7. Variable Naming and Conventions;</h2>
+<p>|__________________________________________________________|</p>
+
+```javascript
+/*
+* Naming Conventions;
+* let varName = value;
+* varName is called an "identifier";
+* Rules;
+*   An identifier can't start with a digit ex: 1name, 23Identifier;
+*   Can start with ($) or (_) ex : $nameVar, $balance, _currentDirectory;(DON'T USE IT)
+*   USE camelCase RULE; ex: camelCase, nameVar, currentBalance, currentDirectory, isLoggedIn;
+*   Use meaningful names for your vars;
+*   When boolean give it a meaningfull prefix isGameOver, isAlive, isBattleOver;
+* */
+```
+
+![naming Convention](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssNamingConventionJs.png)
+
+
 
 
 
