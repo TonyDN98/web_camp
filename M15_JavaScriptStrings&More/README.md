@@ -41,6 +41,15 @@
 * single -> double; both are valid js;
 * double -> single; both are valid js;
 * */
+
+/*
+* Exercise;
+* bestColor should be set to purple;
+* quote should have set you had me at "Hello";
+* */
+
+let bestColor = "purple";
+let quote = 'You had me at "Hello!"';
 ```
 ![introStrings](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/intoStringsJs.png?raw=true)
 
