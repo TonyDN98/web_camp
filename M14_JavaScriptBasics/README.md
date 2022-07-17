@@ -82,7 +82,7 @@
 * */
 ```
 
-![Math Operators;](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssMathOperatorsJs.png)
+![Math Operators;](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssMathOperatorsJs.png?raw=true)
 
 <h3>NaN(NOT a NUMBER);</h3>
 <p>|____________________|</p>
@@ -100,7 +100,7 @@
 
 typeof NaN // Number
 ```
-![NaN Number;](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssNaNJs.png)
+![NaN Number;](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssNaNJs.png?raw=true)
 
 <h2 id="u1">2. Variables;</h2>
 <p>|____________________________|</p>
@@ -147,7 +147,7 @@ let octopusLimbs = 8;
 
 ```
 
-![Variables;](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssVariablesJs.png)
+![Variables;](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssVariablesJs.png?raw=true)
 
 <h2 id="u3">3. Updating Variables;</h2>
 <p>|___________________________________|</p>
@@ -179,13 +179,13 @@ let octopusLimbs = 8;
 
 <h4> Incremenet / Decermenet by 1;</h4>
 
-![Increment/Decrement](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssIncrementDecrementJs.png)
+![Increment/Decrement](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssIncrementDecrementJs.png?raw=true)
 
 
 <hr>
 
 <h4>Updating Variables;</h4>
-![Updating Varialbes Operators](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssUpdatingVariablesJs.png)
+![Updating Varialbes Operators](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssUpdatingVariablesJs.png?raw=true)
 
 
 <h2 id="u4">4. Const & Var</h2>
@@ -226,7 +226,7 @@ const boilingPointC = 100;
 const boilingPointF = 212;
 ```
 
-![Const & Var](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssConst&VarJs.png)
+![Const & Var](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssConst&VarJs.png?raw=true)
 
 <h2 id="u5">5. Boolean</h2>
 <p>|__________________________|</p>
@@ -241,7 +241,7 @@ let isBattleTowerOver = false;
 let isLoggedIn = true;
 ```
 
-![Boolean](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssBooleanJs.png)
+![Boolean](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssBooleanJs.png?raw=true)
 
 <h2 id="u6">6. Changing the variable Type;</h2>
 <p>|________________________________________________|</p>
@@ -258,7 +258,7 @@ isThatPikaPika = 2100; // number
 isThatPikaPika = "It's PIKA!"; // text
 ```
 
-![Changing Var Type](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssChangingVarTypeJs.png)
+![Changing Var Type](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssChangingVarTypeJs.png?raw=true)
 
 <h2 id="u7">7. Variable Naming and Conventions;</h2>
 <p>|__________________________________________________________|</p>
@@ -277,10 +277,5 @@ isThatPikaPika = "It's PIKA!"; // text
 * */
 ```
 
-![naming Convention](C:\Users\kheop\Dev\web_camp\M14_JavaScriptBasics\ss\ssNamingConventionJs.png)
-
-
-
-
-
+![naming Convention](https://github.com/TonyDN98/web_camp/blob/main/M14_JavaScriptBasics/ss/ssNamingConventionJs.png?raw=true)
 
