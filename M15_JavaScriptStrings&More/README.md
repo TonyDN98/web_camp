@@ -28,24 +28,29 @@
 <p>|____________________________|</p>
 
 ```javascript
-/*
+/*+-------------------------------------------------------------------------+|
 * Strings;
+* +-------------------------------------------------------------------------+|
 * Syntax:
 *   let indentifer = "value"; // double qoutes;
 *   let indentifer = 'value'; // single qoutes;
-* 
++-------------------------------------------------------------------------+|
 * Number as String;
 *   let textNumber = "797"; // string
-* 
+*+-------------------------------------------------------------------------+|
 * Using another pair of quotes inside the qoutes;
 * single -> double; both are valid js;
 * double -> single; both are valid js;
+* +-------------------------------------------------------------------------+|
 * */
 
 /*
++-------------------------------------------------------------------------+|
 * Exercise;
++-------------------------------------------------------------------------+|
 * bestColor should be set to purple;
 * quote should have set you had me at "Hello";
++-------------------------------------------------------------------------+|
 * */
 
 let bestColor = "purple";
@@ -58,11 +63,14 @@ let quote = 'You had me at "Hello!"';
 
 ```javascript
 /*
++-------------------------------------------------------------------------+|
 * Indices & Length
++-------------------------------------------------------------------------+|
 * Strings are indexed(0 to n-1);
 * |P| |o| |k| |e| |m| |o| |n| 
 * 0    1   2   3   4   5   6
 * Each character has a coresponded index number;
++-------------------------------------------------------------------------+|
 * */
 
 let animal = "Dumbo Octopus";
@@ -102,22 +110,26 @@ typeof result; // String
 
 ```javascript
 /*
++-------------------------------------------------------------------------+|
 * String Methods
++-------------------------------------------------------------------------+|
 * Seaching within a string;
 * Replace a part of string;
 * Changing the casing of a string;
-* 
++-------------------------------------------------------------------------+|
 * Syntax:
++-------------------------------------------------------------------------+|
 * thing.method()
-* 
++-------------------------------------------------------------------------+|
 * thing.toLowerCase(); // lowercase;
 * thing.toUpperCase(); // uppercase;
 * thing.Trim(); // trim whitespace from begin and end;
-* 
++-------------------------------------------------------------------------+|
 * StringMethod Exercise;
++-------------------------------------------------------------------------+|
 * const message = "    TASTE THE RAINBOW!  "; //DON'T CHANGE THIS LINE PLEASE!
 * whisper , make the message lowercase and trim
-* 
++-------------------------------------------------------------------------+|
 * */
 
 const message = "    TASTE THE RAINBOW!  "; //DON'T CHANGE THIS LINE PLEASE!
@@ -132,44 +144,113 @@ let whisper = message.trim().toLowerCase();
 <h2 id="u4">4. String Methods with Arguments;</h2>
 <p>|____________________________|</p>
 
+
+<h4> indexOf Method;</h4>
+
 ```javascript
 /*
++-------------------------------------------------------------------------+|
 * String Methods with Arguments;
++-------------------------------------------------------------------------+|
 * this.method(argument);
-* 
++-------------------------------------------------------------------------+|
 * indexOf Method;
++-------------------------------------------------------------------------+|
 * this.indexOf("something");
 * return the first index if found;
 * return -1; if didn't found;
++-------------------------------------------------------------------------+|
 */
 ```
 
+![indexof()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringIndexOfMethod.png?raw=true)
 
 
-
+<h4> replace Method;</h4>
 
 ```javascript
 /*
++-------------------------------------------------------------------------+|
 * replace Method;
++-------------------------------------------------------------------------+|
 * thing.replace("toReplace", "tobeReplaced");
 * let something = "HaHa, so funny! Tehhee";
 * something.replace("Tehhee", "HaHa"); // only the first instance;
++-------------------------------------------------------------------------+|
 * */
 ```
 
+![replace()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringreplaceMethod.png?raw=true)
+
+
+<h4> slice Method;</h4>
 
 ```javascript
 /*
-*  
++-------------------------------------------------------------------------+|
 * slice Method;
++-------------------------------------------------------------------------+|
 * this.slice(firstPos, secondPos);
 * this.slice(firstPos);
 * this.slice(-2); // start the slice from the last element;
 * this.slice(-2,-6); // start the slice from the last element;
++-------------------------------------------------------------------------+|
 * */
 ```
+![Slice()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringSliceMethod.png?raw=true)
+
+
+<h4> Exercise Slice() , Replace();</h4>
+
 
 ```javascript
-//Exercise;
+/*
++-------------------------------------------------------------------------+|
+Exercise;
++-------------------------------------------------------------------------+|
+* const word = "skateboard";
+* use slice for board;
+* use replace and change o with e;
+* store it in a new varialbe;
++-------------------------------------------------------------------------+|
+*/
 
 ```
+
+![practice beard](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodPractice.png?raw=true)
+
+<h2 id="u5">5. String Template Literal IMPORTANT;</h2>
+<p>|______________________________________________________________|</p>
+
+```javascript
+let literalString = `I Counted ${3 + 4} sheeps;`;
+let result = `Your ${pokemonName} has a power of ${power}; And doubleUP to ${power * 2}`;
+```
+
+![StringTemplateLiteral](git)
+
+<h2 id="u6">6. NULL & Undefined;</h2>
+<p>|___________________________________|</p>
+
+```javascript
+/*
+* NULL
+*   Intentional absence of any value;
+*   Must be assigned;
+* 
+* UNDEFINED;
+*   Varibles that do not have an assigned value are undefined;
+* */
+
+// No one is loggedIn yet
+let loggedInUser = null; // value explicitly nothing;
+// A user logs in;
+loggedInUser = 'Alan Rickman';
+
+```
+![null&Undefined](git)
+
+<h2 id="u7">7. Math Object & Random Numbers;</h2>
+<p>|___________________________________|</p>
+
+
