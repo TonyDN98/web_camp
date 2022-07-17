@@ -253,4 +253,28 @@ loggedInUser = 'Alan Rickman';
 <h2 id="u7">7. Math Object & Random Numbers;</h2>
 <p>|___________________________________|</p>
 
+```javascript
+/*
+* Math Objects;
+* Contains properties and methods for mathematical constants and fucntions;
+* 
+* 
+* */
+
+Math.PI; //3.1415926...
+Math.E;
+
+// Round a number;
+Math.round(4.9); //5
+
+// Absolute value;
+Math.abs(-458); // 458
+
+// Raise 2 to the 5th power;
+Math.pow(2,5); //32
+
+// Remove decimal 
+Math.floor(3.55555); // 3
+```
+
 
