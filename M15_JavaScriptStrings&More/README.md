@@ -93,7 +93,8 @@ let result = firstName + second; "1Something";
 typeof result; // String
 
 ```
-
+![Indices & Length](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/IndicesLengthStringJs.png?raw=true)
+![Concat with a number](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/ConcatingaNumberStringJs.png?raw=true)
 
 
 <h2 id="u3">3. String Methods</h2>
