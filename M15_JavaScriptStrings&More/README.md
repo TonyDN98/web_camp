@@ -17,10 +17,10 @@
     <li><a href="#u1">1. Strings</a></li>
     <li><a href="#u2">2. Indices & Length</a></li>
     <li><a href="#u3">3. String Methods</a></li>
-    <li><a href="#u4">4. </a></li>
-    <li><a href="#u5">5. </a></li>
-    <li><a href="#u6">6. </a></li>
-    <li><a href="#u7">7. </a></li>
+    <li><a href="#u4">4. String Methods with Arguments; </a></li>
+    <li><a href="#u5">5. String Template Literal IMPORTANT;</a></li>
+    <li><a href="#u6">6. NULL & Undefined; </a></li>
+    <li><a href="#u7">7. Math Object & Random Numbers;</a></li>
 </ul>
 
 
