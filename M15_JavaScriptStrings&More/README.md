@@ -227,7 +227,7 @@ let literalString = `I Counted ${3 + 4} sheeps;`;
 let result = `Your ${pokemonName} has a power of ${power}; And doubleUP to ${power * 2}`;
 ```
 
-![StringTemplateLiteral](git)
+![StringTemplateLiteral](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringTemplateIMPORTANT.png?raw=true)
 
 <h2 id="u6">6. NULL & Undefined;</h2>
 <p>|___________________________________|</p>
@@ -248,7 +248,7 @@ let loggedInUser = null; // value explicitly nothing;
 loggedInUser = 'Alan Rickman';
 
 ```
-![null&Undefined](git)
+![null&Undefined](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/null&undefined.png?raw=true)
 
 <h2 id="u7">7. Math Object & Random Numbers;</h2>
 <p>|___________________________________|</p>
