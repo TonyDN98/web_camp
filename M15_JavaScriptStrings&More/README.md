@@ -253,6 +253,8 @@ loggedInUser = 'Alan Rickman';
 <h2 id="u7">7. Math Object & Random Numbers;</h2>
 <p>|___________________________________|</p>
 
+[MDN Math Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
 ```javascript
 /*
 * Math Objects;
@@ -275,6 +277,38 @@ Math.pow(2,5); //32
 
 // Remove decimal 
 Math.floor(3.55555); // 3
+
+
+// Round it up;
+Math.ceil(34.1); //35
+
 ```
+![Math objects;](git)
+
+```javascript
+/*
+* Random Numbers(generate a random decimal number between 0 and 1);
+* Math.random(); //0.8888888222;
+* Math.random(); //0.4884488222;
+* 
+* RANDOM INTEGERS(Multi-STEP)
+* generate a random number between 1 - 10
+* step1 -> Math.random;
+* step2 -> step1 * 10;
+* step3 -> Math.floor(step2);
+* step4 -> step3 + 1
+* 
+* Math.floor((Math.random() * 10) + 1);
+* */
+
+// NO TOUCHING! (please)
+const die1 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
+const die2 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
+
+// YOUR CODE BELOW THIS LINE:
+let roll = `roll:You rolled a ${die1} and a ${die2}. They sum to ${die1+die2}`;
+
+```
+
 
 
