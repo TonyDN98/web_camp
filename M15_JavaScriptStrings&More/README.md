@@ -76,7 +76,7 @@ let phoneNumber = "0771402705";
 phoneNumber[0]; //(
 
 
-// Build-in property to figure it out what's the total amount of characters;
+// Built-in property to figure it out what's the total amount of characters;
 animal.length; // 13(not the highest index, that will be n - 1)
 
 // Concating strings together using ' + ' operator;
@@ -99,6 +99,35 @@ typeof result; // String
 
 <h2 id="u3">3. String Methods</h2>
 <p>|____________________________|</p>
+
+```javascript
+/*
+* String Methods
+* Seaching within a string;
+* Replace a part of string;
+* Changing the casing of a string;
+* 
+* Syntax:
+* thing.method()
+* 
+* thing.toLowerCase(); // lowercase;
+* thing.toUpperCase(); // uppercase;
+* thing.Trim(); // trim whitespace from begin and end;
+* 
+* StringMethod Exercise;
+* const message = "    TASTE THE RAINBOW!  "; //DON'T CHANGE THIS LINE PLEASE!
+* whisper , make the message lowercase and trim
+* 
+* */
+
+const message = "    TASTE THE RAINBOW!  "; //DON'T CHANGE THIS LINE PLEASE!
+let whisper = message.trim().toLowerCase();
+
+```
+
+[|_String Methods MDN Reference _|](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+
 
 
 
