@@ -42,6 +42,8 @@
 * double -> single; both are valid js;
 * */
 ```
-[introStrings JS](git)
+![introStrings](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/intoStringsJs.png?raw=true)
+
+
 
 
