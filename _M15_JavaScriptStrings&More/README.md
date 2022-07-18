@@ -56,7 +56,7 @@
 let bestColor = "purple";
 let quote = 'You had me at "Hello!"';
 ```
-![introStrings](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/intoStringsJs.png?raw=true)
+![introStrings](https://github.com/TonyDN98/web_camp/blob/main/_M15_JavaScriptStrings%26More/ss/intoStringsJs.png)
 
 <h2 id="u2">2. Indices & Length</h2>
 <p>|____________________________|</p>
@@ -101,8 +101,8 @@ let result = firstName + second; "1Something";
 typeof result; // String
 
 ```
-![Indices & Length](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/IndicesLengthStringJs.png?raw=true)
-![Concat with a number](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/ConcatingaNumberStringJs.png?raw=true)
+![Indices & Length](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/IndicesLengthStringJs.png)
+![Concat with a number](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/ConcatingaNumberStringJs.png)
 
 
 <h2 id="u3">3. String Methods</h2>
@@ -139,7 +139,7 @@ let whisper = message.trim().toLowerCase();
 
 [|_String Methods MDN Reference _|](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
-![String Methods](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodsJs.png?raw=true)
+![String Methods](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodsJs.png)
 
 <h2 id="u4">4. String Methods with Arguments;</h2>
 <p>|____________________________|</p>
@@ -163,7 +163,7 @@ let whisper = message.trim().toLowerCase();
 */
 ```
 
-![indexof()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringIndexOfMethod.png?raw=true)
+![indexof()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringIndexOfMethod.png)
 
 
 <h4> replace Method;</h4>
@@ -180,7 +180,7 @@ let whisper = message.trim().toLowerCase();
 * */
 ```
 
-![replace()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringreplaceMethod.png?raw=true)
+![replace()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringreplaceMethod.png)
 
 
 <h4> slice Method;</h4>
@@ -197,7 +197,7 @@ let whisper = message.trim().toLowerCase();
 +-------------------------------------------------------------------------+|
 * */
 ```
-![Slice()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringSliceMethod.png?raw=true)
+![Slice()](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringSliceMethod.png)
 
 
 <h4> Exercise Slice() , Replace();</h4>
@@ -217,7 +217,7 @@ Exercise;
 
 ```
 
-![practice beard](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodPractice.png?raw=true)
+![practice beard](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringMethodPractice.png)
 
 <h2 id="u5">5. String Template Literal IMPORTANT;</h2>
 <p>|______________________________________________________________|</p>
@@ -227,7 +227,7 @@ let literalString = `I Counted ${3 + 4} sheeps;`;
 let result = `Your ${pokemonName} has a power of ${power}; And doubleUP to ${power * 2}`;
 ```
 
-![StringTemplateLiteral](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringTemplateIMPORTANT.png?raw=true)
+![StringTemplateLiteral](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/stringTemplateIMPORTANT.png)
 
 <h2 id="u6">6. NULL & Undefined;</h2>
 <p>|___________________________________|</p>
@@ -248,7 +248,7 @@ let loggedInUser = null; // value explicitly nothing;
 loggedInUser = 'Alan Rickman';
 
 ```
-![null&Undefined](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/null&undefined.png?raw=true)
+![null&Undefined](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/null&undefined.png)
 
 <h2 id="u7">7. Math Object & Random Numbers;</h2>
 <p>|___________________________________|</p>
@@ -283,7 +283,7 @@ Math.floor(3.55555); // 3
 Math.ceil(34.1); //35
 
 ```
-![Math objects;](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/MathObjectJs.png?raw=true)
+![Math objects;](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/MathObjectJs.png)
 
 ```javascript
 /*
@@ -310,8 +310,4 @@ let roll = `roll:You rolled a ${die1} and a ${die2}. They sum to ${die1+die2}`;
 
 ```
 
-![Random number;](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/RandomNumberJs.png?raw=true)
-
-
-
-.
+![Random number;](https://github.com/TonyDN98/web_camp/blob/main/M15_JavaScriptStrings&More/ss/RandomNumberJs.png)
