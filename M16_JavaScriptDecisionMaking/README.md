@@ -137,5 +137,102 @@ before our js script will interact with it;
 console.log("Hello There!;")
 console.warn("OH NO!");
 ```
+<h2 id="u5">5. If Condition;</h2>
+<p>|____________________________|</p>
+
+```javascript
+// if(cond) else if(condition else)
+
+console.log("Before condition");
+// Random number between 1-10;
+let rand = Math.floor(((Math.random() * 10) + 1));
+
+// if
+if(rand < 5){
+    console.log(`Your random number ${rand} < 5`);
+}else if (rand === 5){ //else if
+    console.log(`Your random number ${rand} is 5`);
+
+}else{ //else
+    console.log(`Your random number ${rand} > 5`);
+}
+
+console.log("After condition");
+```
+
+```javascript
+let age = parseInt(prompt("Age:"));
+let fee = 0;
+
+if(age >= 0 && age <=4){
+    console.log(`Child 0 - 4 fee ${fee}`);
+}else if (age >= 5 && age <=10){
+    fee = 10;
+    console.log(`Kid 5 - 10 fee ${fee}$`);
+}else if (age >= 11 && age <=18){
+    fee = 15;
+    console.log(`Teen 11 - 18 fee ${fee}$`);
+}else {
+    fee = 20;
+    console.log(`Senior19 - 65 fee ${fee}$`);
+}
+```
+
+<h3>Nesting Conditions</h3>
+```javascript
+// Password at least 6+ chars
+// Can't contain space;
+
+let password = prompt("Enter Pass:");
+
+if (password.length >= 6){
+    if (password.indexOf(" ") === -1){
+        console.log("GJ! No space");
+    }else{
+        console.log("Can't contain spaces;")
+    }
+}
+
+```
+<h2 id="u6">6. Logical Operators;</h2>
+<p>|____________________________|</p>
+
+```javascript
+/*
+* +-------------------------------------------------------------------------+|
+* Logical Operators;
+* * +-------------------------------------------------------------------------+|
+* 
+* * +-------------------------------------------------------------------------+|
+* && AND
+* * +-------------------------------------------------------------------------+|
+* true && true -> true;
+* true && false -> false;
+* false && true -> false;
+* false && false -> false;
+* * +-------------------------------------------------------------------------+|
+* * * +-------------------------------------------------------------------------+|
+* || OR
+* * * +-------------------------------------------------------------------------+|
+* true || true -> true;
+* true || false -> true;
+* false || true -> true;
+* false || false -> false;
+** +-------------------------------------------------------------------------+|
+* ! NOT
+ +-------------------------------------------------------------------------+|
+* !(1 === 1) -> false;
+* !true -> false;
+* !false -> true
+* 
+* !null -> true;
+* 
+* !!!false /true/false/true
+* 
+* */
+```
+
+
+
 
 
