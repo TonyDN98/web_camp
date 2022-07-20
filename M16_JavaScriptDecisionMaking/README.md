@@ -15,13 +15,12 @@
 <p id="goUP"></p>
 <ul>
     <li><a href="#u1">1. Comparisons</a></li>
-    <li><a href="#u2">2. </a></li>
-    <li><a href="#u3">3. </a></li>
-    <li><a href="#u4">4.  </a></li>
-    <li><a href="#u5">5. </a></li>
-    <li><a href="#u6">6.  </a></li>
-    <li><a href="#u7">7. </a></li>
-</ul>
+    <li><a href="#u2">2. Console.*()</a></li>
+    <li><a href="#u3">3. parseInt() / prompt()</a></li>
+    <li><a href="#u4">4. Running Js from a Script;</a></li>
+    <li><a href="#u5">5. If Condition;</a></li>
+    <li><a href="#u6">6. Logical Operators;</a></li>
+></ul>
 
 
 <h2 id="u1">1. Comparisons</h2>
