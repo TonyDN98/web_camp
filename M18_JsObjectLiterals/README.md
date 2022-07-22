@@ -1,4 +1,4 @@
-<h1>Module 18. JavaScript Object Literals/h1>
+<h1>Module 18. JavaScript Object Literals</h1>
 <p>|__________________________________________|</p>
 
 <h2>I. Course Content</h2>
