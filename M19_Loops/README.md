@@ -14,10 +14,13 @@
 
 <p id="goUP"></p>
 <ul>
-    <li><a href="#u1">1. </a></li>
-    <li><a href="#u2">2.  </a></li>
-    <li><a href="#u3">3. </a></li>
-    <li><a href="#u4">4.   </a></li>
+    <li><a href="#u1">1. Intro LOOPS</a></li>
+    <li><a href="#u2">2. Looping over Arrays</a></li>
+    <li><a href="#u3">3. Nested Loops</a></li>
+    <li><a href="#u4">4. While Loop </a></li>
+    <li><a href="#u5">5. For of LOOPing over Arrays </a></li>
+    <li><a href="#u6">6. For in LOOPing over OBJECTS Uncommon </a></li>
+    <li><a href="#u7">7. Object methods </a></li>
 </ul>
 
 
@@ -235,7 +238,4 @@ for(let person in obj){
 // Object.values(obj); // return an array of values of keys;
 
 // Object.entries()
-
-
-
 ```
