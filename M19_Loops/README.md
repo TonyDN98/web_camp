@@ -202,10 +202,40 @@ for(let row of seatingChart){
     
 ```
 
-<h2 id="u6">6. For of LOOPing over OBJECTS</h2>
+<h2 id="u6">6. For in LOOPing over OBJECTS Uncommon</h2>
 <p>|____________________________|</p>
 
 
 ```javascript
+// Iterate through object will just going for keys;
+
+const obj = {
+    ken : 33,
+    ben : 34,
+    pen : 35,
+    men : 36
+};
+
+// for..in
+
+for(let person in obj){
+    console.log(person); // ken, ben, pen, men
+    console.log(`${person} scored ${obj[person]}`); // 33, 34,35,36;
+}
+
+```
+
+
+<h2 id="u7">7. Object methods</h2>
+<p>|____________________________|</p>
+
+```javascript
+//Object.keys(object); // return an array of keys
+
+// Object.values(obj); // return an array of values of keys;
+
+// Object.entries()
+
+
 
 ```
