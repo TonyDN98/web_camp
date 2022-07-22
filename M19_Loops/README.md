@@ -121,7 +121,8 @@ for (var i = 1; i <= 10; i++) {
 }
 ```
 
-[nestedloops]()
+![nestelooops](https://github.com/TonyDN98/web_camp/blob/main/M19_Loops/ss/nestedLoops.png?raw=true)
+
 
 ```javascript
 
@@ -182,7 +183,7 @@ for(let animal of animalNames){
 }
 ```
 
-[forOFLoop]()
+![](https://github.com/TonyDN98/web_camp/blob/main/M19_Loops/ss/FOR%20OF%20LOOP.png?raw=true)
 
 
 ```javascript
@@ -205,3 +206,6 @@ for(let row of seatingChart){
 <p>|____________________________|</p>
 
 
+```javascript
+
+```
