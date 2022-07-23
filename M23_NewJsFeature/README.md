@@ -14,7 +14,7 @@
 
 <p id="goUP"></p>
 <ul>
-    <li><a href="#u1">1. </a></li>
+    <li><a href="#u1">1. Default Parameters;</a></li>
     <li><a href="#u2">2. </a></li>
     <li><a href="#u3">3. </a></li>
     <li><a href="#u4">4. </a></li>
@@ -24,6 +24,36 @@
 </ul>
 
 
-<h2 id="u1">1. forEach not that common anymore</h2>
+<h2 id="u1">1. Default Parameters;</h2>
 
 <p>|____________________________|</p>
+
+```javascript
+/*
+* Default Parameters;
+* */
+
+              // b = 5 default parameter values;
+ function add(a,b=5){
+ return a + b}
+
+ add(5) // 10;
+
+function rolDie(numSides =6){
+     return Math.floor(math.random() * numSides + 1);
+}
+
+function greet(person,msg="Hey There") {
+    console.log(`${msg} ${person}`);
+}
+
+```
+
+<h2 id="u2">2. Spread syntax;</h2>
+<p>|____________________________|</p>
+
+```javascript
+
+```
+
+
