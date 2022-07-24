@@ -1,4 +1,4 @@
-<h1>Module 23. Intro DOM</h1>
+<h1>Module 24. Intro DOM</h1>
 <p>|__________________________________________|</p>
 
 <h2>I. Course Content</h2>
