@@ -14,13 +14,14 @@
 
 <p id="goUP"></p>
 <ul>
-    <li><a href="#u1">1. </a></li>
-    <li><a href="#u2">2.  </a></li>
-    <li><a href="#u2">2.  </a></li>
-    <li><a href="#u2">2.  </a></li>
-    <li><a href="#u2">2.  </a></li>
-    <li><a href="#u2">2.  </a></li>
-
+    <li><a href="#u1">1. intro DOM</a></li>
+    <li><a href="#u2">2. getElementByID</a></li>
+    <li><a href="#u2">3. getElementByTagName</a></li>
+    <li><a href="#u2">4. getElementByClassName</a></li>
+    <li><a href="#u2">5. querySelector && querySelectorAll</a></li>
+    <li><a href="#u2">6. innerHTML,textContent, innerText</a></li>
+    <li><a href="#u2">7. Attributes;</a></li>
+    <li><a href="#u2">8. classList;</a></li>
 </ul>
 
 [DOM MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
