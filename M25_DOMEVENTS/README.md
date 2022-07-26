@@ -14,12 +14,8 @@
 
 <p id="goUP"></p>
 <ul>
-    <li><a href="#u1">preventDefault Form</a></li>
-    <li><a href="#u1">extractDataFrom Form</a></li>
-    <li><a href="#u1"></a></li>
-    <li><a href="#u1"></a></li>
-    <li><a href="#u1"></a></li>
-    <li><a href="#u1"></a></li>
+    <li><a href="#u1">1. preventDefault Form</a></li>
+    <li><a href="#u2">2. extractDataFrom Form</a></li>
 </ul>
 
 [DOM MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -44,7 +40,7 @@ form.addEventListener('submit', function (e){
 ```
 
 
-<h2 id="u2">2. </h2>
+<h2 id="u2">2. extractDataFrom</h2>
 <p>|____________________________|</p>
 
 ```html
